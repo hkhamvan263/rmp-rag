@@ -1,0 +1,131 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Introduction to Psychology",
+        "stars": 5,
+        "review": "Dr. Johnson is an outstanding professor with a passion for the subject. Her lectures are engaging and she makes complex topics easy to understand."
+      },
+      {
+        "professor": "Prof. Mark Davis",
+        "subject": "Calculus I",
+        "stars": 4,
+        "review": "Prof. Davis is knowledgeable and helpful, though his lectures can sometimes be a bit fast-paced."
+      },
+      {
+        "professor": "Dr. Emily Chen",
+        "subject": "Organic Chemistry",
+        "stars": 3,
+        "review": "Dr. Chen's classes are informative, but the material can be challenging. A lot of self-study is required."
+      },
+      {
+        "professor": "Prof. Samuel Brown",
+        "subject": "History of Art",
+        "stars": 5,
+        "review": "Prof. Brown brings history to life with his enthusiasm and deep knowledge of the subject. Highly recommend."
+      },
+      {
+        "professor": "Dr. Laura Smith",
+        "subject": "Microeconomics",
+        "stars": 4,
+        "review": "Dr. Smith is a good professor who explains economic concepts clearly. However, her assignments can be time-consuming."
+      },
+      {
+        "professor": "Prof. James Miller",
+        "subject": "Computer Science Principles",
+        "stars": 2,
+        "review": "Prof. Miller's teaching style is unorganized, and it can be difficult to follow along with his lectures."
+      },
+      {
+        "professor": "Dr. Linda Martinez",
+        "subject": "Biology 101",
+        "stars": 4,
+        "review": "Dr. Martinez is a great professor who makes biology interesting. Her exams are challenging but fair."
+      },
+      {
+        "professor": "Prof. Kevin Wilson",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Prof. Wilson is passionate about the environment and provides valuable insights. His class is both educational and inspiring."
+      },
+      {
+        "professor": "Dr. Rachel Taylor",
+        "subject": "Modern Literature",
+        "stars": 3,
+        "review": "Dr. Taylor is knowledgeable but her lectures can sometimes lack structure. Reading assignments are extensive."
+      },
+      {
+        "professor": "Prof. Michael Anderson",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Prof. Anderson explains statistical concepts well and is always available for help. The course workload is manageable."
+      },
+      {
+        "professor": "Dr. Sarah Thompson",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Dr. Thompson is an exceptional professor with a deep understanding of philosophical concepts. Her discussions are thought-provoking."
+      },
+      {
+        "professor": "Prof. David Lee",
+        "subject": "Physical Chemistry",
+        "stars": 3,
+        "review": "Prof. Lee is knowledgeable but the course material is very challenging. Expect to spend a lot of time studying."
+      },
+      {
+        "professor": "Dr. Jessica White",
+        "subject": "Introduction to Sociology",
+        "stars": 4,
+        "review": "Dr. White is engaging and makes sociology relatable. The course is well-structured and provides a good overview of the subject."
+      },
+      {
+        "professor": "Prof. Richard Clark",
+        "subject": "Calculus II",
+        "stars": 2,
+        "review": "Prof. Clark's teaching method is not very effective. The class is difficult to follow, and he provides minimal feedback."
+      },
+      {
+        "professor": "Dr. Karen Lewis",
+        "subject": "Advanced Algebra",
+        "stars": 4,
+        "review": "Dr. Lewis is very helpful and provides clear explanations. The course is challenging but rewarding."
+      },
+      {
+        "professor": "Prof. Thomas Walker",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Prof. Walker is an excellent professor who encourages critical thinking. His lectures are engaging and thought-provoking."
+      },
+      {
+        "professor": "Dr. Michelle Harris",
+        "subject": "Genetics",
+        "stars": 3,
+        "review": "Dr. Harris is knowledgeable, but the course can be overwhelming due to the volume of material covered."
+      },
+      {
+        "professor": "Prof. William Young",
+        "subject": "Introduction to Engineering",
+        "stars": 4,
+        "review": "Prof. Young is very enthusiastic and provides practical examples. The course gives a good introduction to engineering principles."
+      },
+      {
+        "professor": "Dr. Laura Scott",
+        "subject": "Public Speaking",
+        "stars": 5,
+        "review": "Dr. Scott is an exceptional instructor who helps students build confidence in public speaking. Highly recommended."
+      },
+      {
+        "professor": "Prof. Brian Adams",
+        "subject": "Computer Programming",
+        "stars": 4,
+        "review": "Prof. Adams is knowledgeable and provides practical coding exercises. The class is challenging but beneficial for learning programming."
+      },
+      {
+        "professor": "Dr. Helen Martinez",
+        "subject": "Cultural Anthropology",
+        "stars": 5,
+        "review": "Dr. Martinez is a fantastic professor with a deep understanding of cultural anthropology. Her classes are engaging and informative."
+      }
+    ]
+  }
+  
