@@ -94,10 +94,11 @@ export default function Home() {
         main: '#1E88E5',
       },
       secondary: {
-        main: '#FB8C00',
+        main: '#3b3b3b',
+        /*'#FB8C00',*/
       },
       background: {
-        default: '#C7EBDF'
+        default: '#fafafa'
       },
     },
     
@@ -108,9 +109,11 @@ export default function Home() {
       mode: 'dark',
       primary: {
         main: '#CE93D8',
+        /*'#139576',*/
       },
       secondary: {
         main: '#80CBC4',
+        /*'#80CBC4',*/
       },
       background: {
         default: '#121212'
@@ -130,7 +133,7 @@ export default function Home() {
       flexDirection={"column"}
       justifyContent={"center"}
       alignItems={"center"}
-      bgcolor={darkMode ? '#121212' : '#C7EBDF'}
+      bgcolor={darkMode ? '#121212' : '#fafafa'}
     >
       <Typography variant="h2" marginTop={3}>RMP Chatbot</Typography>
       <Stack
@@ -139,9 +142,9 @@ export default function Home() {
        direction={"column"}
        width={'600px'}
        height={'700px'}
-       border={'5px solid'}
+       border={'3px solid'}
        borderColor={darkMode? 'white': 'black'}
-       borderRadius={"25px"}
+       borderRadius={"20px"}
        p={2}
        spacing={2}
        bgcolor={darkMode ? 'black' : 'white'}
@@ -212,7 +215,7 @@ export default function Home() {
             multiline
             maxRows={4}
             variant="outlined"
-            sx={{resize: 'none', boxShadow: 2, bgcolor: darkMode ? '#121212' : '#E0FFFF'}}
+            sx={{resize: 'none', boxShadow: 2, bgcolor: darkMode ? '#121212' : '#e3f3f9'}}
             />
             <Button
               variant="contained"
